@@ -1,29 +1,18 @@
 # Ficha-de-treino
 </br>
-Iniciando um projeto com meu parceiro de treino vulgo hemogenin, filipão mula, cavalo utilizando HTML5 CSS3 e JavaScript PRA FICAR GRANDÃO
-</br>
-FORA DAQUI FRANGOOOOOO🐔🐔🐔🐔🐔🐔🐔🐔
-
-SEM LUVINHA
+Iniciando um projeto com meu amigo "https://github.com/felpscybernet" utilizando HTML5 CSS3 e JavaScript.
 </br>
 </br>
-COM O INTUITO DE FICAR GRANDÃO 😈😈😈😈😈😈😈😈😈😈😈😈😈💉💉💉💉💉💉💉💉
+Além da programação também somos apaixonados por musculação e com o objetivo de aprender mais sobre HTML, CSS E JavaScript, resolvemos criar uma tabela com os nossos treinos.
 </br>
 </br>
-• O que é o projeto MONSTRÃO?
+• O que é o projeto Ficha-de-treino?
 </br>
 </br>
-PROJETO MONSTRÃO 💉💉💉💉
+• Ficha de treino nada mas é do que uma tabela com nosso treino de musculação.
 </br>
 </br>
 • Qual o fundamento desse projeto?
 </br>
 </br>
-FICAR GRANDÃOOOOOOOOOOOOOO💉💉💉💉 BOMBA 
-
-Durateston, oxondrolona, stanozolol, dianabol, trembolona e deca.
-
-Blindão, blin blindão, blindão, blindão
-Blindão, blindão, blindão, tem que ser blindão
-Blindão, blin blindão, blindão, blindão
-Blindão, blindão, blindão, tem que ser blindão
+Buscar mais conhecimentos sobre HTML, CSS e JavaScript.
