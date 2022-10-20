@@ -1,19 +1,20 @@
 # Ficha-de-treino
 </br>
-Iniciando um projeto com meu amigo "felpscybersecurity" utilizando HTML5 CSS3 e JavaScript.
+Iniciando um projeto com meu parceiro de treino vulgo hemogenin, filipão mula, cavalo utilizando HTML5 CSS3 e JavaScript PRA FICAR GRANDÃO
 </br>
 </br>
-Além da programação também somos apaixonados por musculação e com o objetivo de aprender mais sobre HTML, CSS E JavaScript, resolvemos criar uma tabela com os nossos treinos.
+COM O INTUITO DE FICAR GRANDÃO 😈😈😈😈😈😈😈😈😈😈😈😈😈💉💉💉💉💉💉💉💉
 </br>
 </br>
 • O que é o projeto Ficha-de-treino?
 </br>
 </br>
-• Ficha de treino nada mas é do que uma tabela com nosso treino de musculação.
+PROJETO MURO 💉💉💉💉
 </br>
 </br>
 • Qual o fundamento desse projeto?
 </br>
 </br>
-Buscar mais conhecimentos sobre HTML, CSS e JavaScript.
+FICAR GRANDÃOOOOOOOOOOOOOO💉💉💉💉 BOMBA 
 
+Durateston, oxondrolona, stanozolol, dianabol, trembolona e deca.
