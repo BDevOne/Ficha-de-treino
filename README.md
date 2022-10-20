@@ -1,6 +1,6 @@
 # Ficha-de-treino
 </br>
-Iniciando um projeto com meu amigo "https://github.com/felpscybernet" utilizando HTML5 CSS3 e JavaScript.
+Iniciando um projeto com meu amigo "felpscybernet" utilizando HTML5 CSS3 e JavaScript.
 </br>
 </br>
 Além da programação também somos apaixonados por musculação e com o objetivo de aprender mais sobre HTML, CSS E JavaScript, resolvemos criar uma tabela com os nossos treinos.
