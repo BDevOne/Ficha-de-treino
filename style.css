@@ -1,32 +1,86 @@
-body {
-    margin: 20px;
-    font color: White;
+#corpo {
+    margin: auto;
+    padding: auto;
+    background-image: url(https://www.dicasdetreino.com.br/wp-content/uploads/2015/02/Marombas-Homens-com-Pernas-Finas.webp);
+    background-size: 2000px;
+    width: 100%;
+    height: 100%;
+    /* overflow-y: scroll; barra de rolagem da tela caso precise implementar*/ 
 }
 
+/*Titulo "Tabela de treino"*/
 .titulo {
-    border: 5px outset gray;
     background-color: rgb(0, 230, 115);
+    border: 5px outset gray;
+    border-radius: 5px;
     text-align: center;
     color: black;
     font-family: Courier New;
-    Verdana;
-    font: bold;
+    font-weight:bold;
+    font-size: 30px;
     margin: auto;
+    padding: 10px;
 }
 
+/*Informações*/
 .info {
     border: 5px outset gray;
     text-align: center;
     font-size: 20px;
-    font: bold;
-    color: rgb(86, 111, 115);
+    color: black;
     background-color: white;
     margin: auto;
+    
 }
 
-#btnClique {
+/*Button 1 */
+#btnClique1 {
+    background-color: rgb(86, 111, 115);
+    border: 0;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 5px;
     font-size: 15px;
-    color: Blue;
-
-
+    font-family: Courier New;
+    color: white;
+    position: absolute;
+    text-align: center; 
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    
 }
+
+#btnClique1:hover {
+    background-color: rgba(86, 111, 115, 0.767);
+    color: white;
+    transition: all .4s ease-in-out;
+    transition-property: all;
+    transition-duration: 0.7s;
+    transition-timing-function: ease-in-out;
+   
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+
+  th{
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
